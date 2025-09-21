@@ -1,0 +1,5 @@
+{
+  "name": "elecpro/ask-general",
+  "description": "API PHP pour IA avec Cohere",
+  "require": {}
+}
